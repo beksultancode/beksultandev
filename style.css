@@ -3,15 +3,36 @@
     src: url("./fonts/Sometype_Mono/static/SometypeMono-Regular.ttf") format('truetype');
 }
 
+body {
+/*    background color like intellij idea*/
+    background-color: #2b2b2b;
+    color: #fff;
+    font-family: MyMono, monospace;
+    font-size: 1.5em;
+    text-align: center;
+}
+
 .java-hello-world {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #5194ce, 0 0 70px #0ff, 0 0 80px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+.avatar {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #typing {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: MyMono, monospace;
+}
+
+.avatar img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
