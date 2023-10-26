@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'MyMono';
+    src: url("./fonts/Sometype_Mono/static/SometypeMono-Regular.ttf") format('truetype');
+}
+
+.java-hello-world {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #5194ce, 0 0 70px #0ff, 0 0 80px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+#typing {
+    font-size: 2em;
+    font-family: MyMono, monospace;
+}
