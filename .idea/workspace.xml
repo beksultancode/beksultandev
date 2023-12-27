@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f86d970c-e7e5-4d56-95ba-f79eaaeb484d" name="Changes" comment="" />
+    <list default="true" id="f86d970c-e7e5-4d56-95ba-f79eaaeb484d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/SometypeMono-Italic-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/SometypeMono-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1698118744228beksultan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/beksultan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photo_2023-09-13 05.34.11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photo_2023-09-13 05.35.55.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +33,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2XI6iyR02zQiuuRigxCImWK3QnK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,9 +51,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/beksultan/Projects/beksultandev/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698304378801</updated>
+      <workItem from="1698304379898" duration="4354000" />
+      <workItem from="1703704806898" duration="7265000" />
     </task>
     <servers />
   </component>

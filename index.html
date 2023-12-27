@@ -1,39 +1,11 @@
-<!DOCTYPE html>
 <html>
-<head>
-    <link rel="icon" href="./images/photo_2023-09-13%2005.34.11.jpeg" type="image/x-icon">
-    <title>Beksultan</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<div class="avatar">
-    <img src="./images/1698118744228beksultan.jpg" alt="Avatar">
-</div>
-<div class="java-hello-world">
-    <h1 id="typing"></h1>
-</div>
-<script>
-    const sentences = ['System.out.println("Hello, World!");'];
-
-    let sentenceIndex = 0;
-    let characterIndex = 0;
-
-    function type() {
-        if (characterIndex < sentences[sentenceIndex].length) {
-            document.getElementById("typing").innerHTML += sentences[sentenceIndex].charAt(characterIndex);
-            characterIndex++;
-            setTimeout(type, 50);
-        } else {
-            sentenceIndex++;
-            if (sentenceIndex >= sentences.length) {
-                sentenceIndex = 0;
-            }
-            characterIndex = 0;
-        }
-    }
-
-    type();
-</script>
-
-</body>
+    <head>
+        <title>Home</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="full-name text-flicker-in-glow">
+            Beksultan
+        </div>
+    </body>
 </html>
