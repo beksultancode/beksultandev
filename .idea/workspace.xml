@@ -4,24 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f86d970c-e7e5-4d56-95ba-f79eaaeb484d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/img_1.png" afterDir="false" />
+    <list default="true" id="f86d970c-e7e5-4d56-95ba-f79eaaeb484d" name="Changes" comment="Remove font and readme files, update CSS and HTML files&#10;&#10;Deleted the Sometype_Mono font files and the associated Readme files. Reworked the HTML and CSS files for a new look. Adjusted settings in the .idea workspace and misc.xml files.">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_Condensed-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/static/OpenSans_SemiCondensed-SemiBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/SometypeMono-Italic-VariableFont_wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/SometypeMono-VariableFont_wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Sometype_Mono/static/SometypeMono-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1698118744228beksultan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/beksultan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo_2023-09-13 05.34.11.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo_2023-09-13 05.35.55.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -49,10 +75,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/beksultan/Projects/beksultandev/images",
+    "last_opened_file_path": "/Users/beksultan/Projects/beksultandev/fonts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,8 +90,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/fonts" />
@@ -79,11 +106,25 @@
       <option name="presentableId" value="Default" />
       <updated>1698304378801</updated>
       <workItem from="1698304379898" duration="4354000" />
-      <workItem from="1703704806898" duration="7265000" />
+      <workItem from="1703704806898" duration="11112000" />
+      <workItem from="1706261379770" duration="1612000" />
     </task>
+    <task id="LOCAL-00001" summary="Remove font and readme files, update CSS and HTML files&#10;&#10;Deleted the Sometype_Mono font files and the associated Readme files. Reworked the HTML and CSS files for a new look. Adjusted settings in the .idea workspace and misc.xml files.">
+      <option name="closed" value="true" />
+      <created>1703712757299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703712757299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove font and readme files, update CSS and HTML files&#10;&#10;Deleted the Sometype_Mono font files and the associated Readme files. Reworked the HTML and CSS files for a new look. Adjusted settings in the .idea workspace and misc.xml files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove font and readme files, update CSS and HTML files&#10;&#10;Deleted the Sometype_Mono font files and the associated Readme files. Reworked the HTML and CSS files for a new look. Adjusted settings in the .idea workspace and misc.xml files." />
   </component>
 </project>
